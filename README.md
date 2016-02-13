@@ -1,2 +1,13 @@
-#Shortly Deploy
-A project exploring deployment with Heroku and various build tools (Grunt and build packs). I completed this project as a student at [Hack Reactor Remote Beta](http://www.hackreactor.com/remote-beta).
+#Shortly Angular
+
+A project exploring AngularJS, covering implementation of
+- Controllers & $scope
+- Modules
+- Routing & multiple views
+- Factories & Services
+- Directives
+- Promises
+- Filters
+- Testing with Karma
+
+I completed this project as a student at [Hack Reactor Remote Beta](http://www.hackreactor.com/remote-beta).
